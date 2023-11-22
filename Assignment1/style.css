@@ -1,0 +1,10 @@
+.candidate-details {
+    font-size: 14px;
+    display: none;
+}
+
+.myImage {
+    height: 100px;
+    width: 100px;
+    margin-bottom: 50px;
+}
